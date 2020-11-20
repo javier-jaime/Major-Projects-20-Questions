@@ -1,0 +1,3 @@
+The dataset is for the Major Projects on the province of Alberta in Canada, these projects are valued at $5 million or greater. The source is on the provincial government website: https://majorprojects.alberta.ca/
+
+The Research Question is: With 20 questions or less, can we compare the estimated cost of a proposed project with similar major projects from the dataset?
